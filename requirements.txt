@@ -1,0 +1,10 @@
+# AI Animation Video Creator Dependencies
+
+# Install dependencies
+flask
+numpy
+opencv-python
+moviepy
+tensorflow
+matplotlib
+scikit-learn
